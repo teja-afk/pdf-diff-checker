@@ -85,3 +85,13 @@ Unchanged pages do not produce PNG files.
 app.py            Local web server, PDF comparison, and CLI exporter
 requirements.txt  Python dependencies
 ```
+
+## Results
+homepage.png
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/1faf2dc2-6404-41ae-8fe9-fd17aa6d75fa" />
+
+pdf-diff-results.png
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/4a87056a-3cfc-4cb7-b714-6f7102748618" />
+
+
+
