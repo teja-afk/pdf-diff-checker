@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Generated command-line comparison images
+diff_old_page_*.png
+diff_new_page_*.png
